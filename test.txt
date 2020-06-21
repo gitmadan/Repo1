@@ -1,10 +1,1 @@
- Volume in drive C is OSDisk
- Volume Serial Number is 701B-2F07
-
- Directory of C:\Users\gitmadan\Desktop\GitTest
-
-06/21/2020  01:18 PM    <DIR>          .
-06/21/2020  01:18 PM    <DIR>          ..
-06/21/2020  01:18 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  375,788,589,056 bytes free
+Lets do some changes 
